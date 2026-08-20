@@ -12,9 +12,11 @@ This assignment focused on collecting Ethereum transaction data from Etherscan u
 
 **Topics:** Web scraping, exploratory data analysis, descriptive statistics, sampling  
 **Tools:** Python, Selenium, Beautiful Soup, pandas, NumPy, Matplotlib, Seaborn  
-**Repository:** [Open CA0 & CA1 Repository](https://github.com/F102M8/data_science-CA0-1/tree/main/CA0)
+**Repository:** [Open CA0 Repository](https://github.com/F102M8/data_science-CA0-1/tree/main/CA0)
 
 ## Assignment 1: Statistical Analysis Tools  
+
+**Repository:** [Open CA1 Repository](https://github.com/F102M8/data_science-CA0-1/tree/main/CA1)
 
 ## Assignment 2: Investigating Open-Ended Questions
 
