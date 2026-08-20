@@ -30,3 +30,8 @@ This assignment focused on collecting Ethereum transaction data from Etherscan u
 ## Assignment 7: Semi-Supervised Learning and LLMs
 
 ## Final Project
+
+
+## Languages Used
+- Python
+- Jupyter Notebook
